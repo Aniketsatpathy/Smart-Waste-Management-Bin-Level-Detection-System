@@ -336,27 +336,7 @@ Example:
 
 # Screenshots
 
-Add screenshots inside the images folder.
-
-Recommended screenshots:
-
-```text
-images/
-
-wokwi-simulation.png
-
-mqtt-terminal.png
-
-database-records.png
-
-dashboard-home.png
-
-gauge-visualization.png
-
-alert-history.png
-
-architecture-diagram.png
-```
+Refer screenshots inside the images folder.
 
 ---
 
