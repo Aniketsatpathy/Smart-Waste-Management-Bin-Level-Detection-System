@@ -1,0 +1,53 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Databases (SQLite and others)
+*.db
+*.sqlite
+*.sqlite3
+database/waste_management.db
+
+# Local environment / secrets configuration
+.env
+.env.local
+*.env
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# PlatformIO / Arduino / ESP32 Build and Config
+.pio/
+.pioenvs/
+.piolibdeps/
+.cache/
+Smart_Waste_Management_ESP32_Code/.pio/
+Smart_Waste_Management_ESP32_Code/.cache/
+Smart_Waste_Management_ESP32_Code/.vscode/
+Smart_Waste_Management_ESP32_Code/compile_commands.json
+compile_commands.json
